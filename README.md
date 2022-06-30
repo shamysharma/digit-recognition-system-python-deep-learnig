@@ -1,0 +1,2 @@
+# digit-recognition-system-python-deep-learnig
+Digit recognition refers to a computer's capacity to identify human-written digits. Because handwritten numerals are imperfect and can be generated with a variety of tastes, it is a difficult work for the machine. The answer to this issue is handwritten digit recognition, which uses an image of a digit to identify the digit that is contained in the image
